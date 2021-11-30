@@ -1,0 +1,4 @@
+### gitignore for Cloud Training
+
+#autumn_festival project: 1st project of cloud computing course @ AUT
+autumn_festival/*.docx
