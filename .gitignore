@@ -2,3 +2,8 @@
 
 #autumn_festival project: 1st project of cloud computing course @ AUT
 autumn_festival/*.docx
+
+#Hadoop project: 3rd project of cloud computing course @ AUT
+Hadoop/*.docx
+Hadoop/Description/datasets
+Hadoop/Description/datasets.zip
